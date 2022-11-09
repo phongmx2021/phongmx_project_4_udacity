@@ -1,4 +1,4 @@
-[![phongmx](https://app.circleci.com/pipelines/github/phongmx2021/phongmx_project_4_udacity.svg?style=svg)](https://app.circleci.com/pipelines/github/phongmx2021/phongmx_project_4_udacity)
+[![phongmx](https://circleci.com/gh/phongmx2021/phongmx_project_4_udacity.svg?style=svg)](https://app.circleci.com/pipelines/github/phongmx2021/phongmx_project_4_udacity)
 
 ## Project Overview
 
